@@ -21,8 +21,8 @@ This repository contains the scripts and data for the theoretical model develope
    This notebook extends the model to include a plasmid-adapted (*Ba*) population, representing cells that have acquired compensatory mutations. It explores the long-term dynamics of the bacterial populations under different ecological and evolutionary scenarios.
 
 ## Authors
-Carles Tardío Pi
-Rafael Peña-Miller
+Carles Tardío Pi \\
+Rafael Peña-Miller \\
 [\@Systems Biology Lab, CCG-UNAM](https://github.com/ccg-esb-lab)
 
 ## License

@@ -14,10 +14,10 @@ This repository contains the scripts and data for the theoretical model develope
 1. **[py-mcr_CurveFit.ipynb](py_mcr_model_3strains.ipynb):**  
    This notebook calibrates the parameter models against experimental data. It fits Monod growth curves and estimates strain-specific parameters such as growth rates (ρ) and susceptibility coefficients (κ) using optical density (OD) and MIC data.
 
-2. **py-mcr_Model_2strains.ipynb:**  
+2. **[py-mcr_Model_2strains.ipynb](py_mcr_Model_2strains.ipynb):**  
    This notebook simulates the stability of plasmids in a two-strain model, including plasmid-free (*B0*) and plasmid-bearing (*Bp*) populations under varying levels of antibiotic selection pressure.
 
-3. **py-mcr_Model_3strains.ipynb:**  
+3. **[py-mcr_Model_3strains.ipynb](py_mcr_model_3strains.ipynb):**  
    This notebook extends the model to include a plasmid-adapted (*Ba*) population, representing cells that have acquired compensatory mutations. It explores the long-term dynamics of the bacterial populations under different ecological and evolutionary scenarios.
 
 ## Authors

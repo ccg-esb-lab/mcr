@@ -1,9 +1,12 @@
-# Theoretical Model of Compensatory Adaptation in Plasmid Dynamics
+# Mathematical Model of Plasmid Dynamics in Evolving Bacterial Populations
 
 Scripts and data used to produce figures and simulations related to the theoretical model from:
 
-**Persistence of mcr resistance following long-term absence of colistin selection in a biofilm environment**  
-Wu et al.
+**Persistence of mcr resistance following long-term absence of colistin selection in a biofilm
+environment**  
+Jingxiang Wu, Jennifer Y.M. Adams, Francesca Boardman, Mei Li, Ian Boostrom, Jordan
+Mathias, Lydia C. Powell, Manon F. Pritchard, Carles Tardío Pi, Rafael Peña-Miller,
+Timothy R. Walsh, Owen B. Spiller, David W. Thomas, Katja E. Hill*
 
 ## Overview
 

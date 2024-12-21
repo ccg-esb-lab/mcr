@@ -14,7 +14,7 @@ This repository contains the scripts and data for the theoretical model develope
 
 ## Notebooks
 
-1. **[py-mcr_CurveFit.ipynb](py-mcr_CurveFit.ipynb):**  
+1. **[py-mcr3_model_parametrization.ipynb](py-mcr3_model_parametrization.ipynb):**  
    This notebook calibrates the parameter models against experimental data. It fits Monod growth curves and estimates strain-specific parameters such as growth rates (ρ) and susceptibility coefficients (κ) using optical density (OD) and MIC data.
 
 2. **[py-mcr_Model_2strains.ipynb](py_mcr_Model_2strains.ipynb):**  

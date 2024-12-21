@@ -1,4 +1,4 @@
-# Mathematical Model of Plasmid Dynamics in Evolving Bacterial Populations
+# Mathematical Model of Plasmid Dynamics in Evolving Populations
 
 Scripts and data used to produce figures and simulations related to the theoretical model from:
 
